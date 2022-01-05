@@ -6,14 +6,14 @@ $useragent = "Mozilla/5.0 (Linux; Android 8.1.0; iris65) AppleWebKit/537.36 (KHT
 
 
 
-$ssid_ltc = "PHPSESSID=sqss708s7v85esaa7io8bghpu4";
+$ssid_ltc = "PHPSESSID=q5pkgdmvh6od8k2i95h83clfb5";
 
 $ssid_dgb = "PHPSESSID=5ki7oimvnfa1ps12ar5fgbgel1";
 
-$ssid_trx = "PHPSESSID=q1r8t96dnfuscqqsotnkhfcva5";
+$ssid_trx = "PHPSESSID=era1und0ajb9b379ctbi6mi6o7";
 
-$ssid_doge = "PHPSESSID=ufan4iu60v1hpal663qs9ojgr3";
+$ssid_doge = "PHPSESSID=68g78vtq0nmg7a2fd7in2dsti6";
 
-$ssid_btc = "PHPSESSID=9b8nr6d45ehrmqm9m28b6fbo67";
+$ssid_btc = "PHPSESSID=9hufsbsdeogsphptdv1hm79665";
 
-$ssid_eth = "PHPSESSID=0h2o1lfa9jusf6g9opoup84ap2";
+$ssid_eth = "PHPSESSID=gs3vbts6oq1vrvbsr976rm7t81";

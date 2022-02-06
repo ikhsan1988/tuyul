@@ -6,7 +6,7 @@ $useragent = "Mozilla/5.0 (Linux; Android 8.1.0; iris65) AppleWebKit/537.36 (KHT
 
 
 
-$ssid_ltc = "PHPSESSID=q5pkgdmvh6od8k2i95h83clfb5";
+$ssid_ltc = "PHPSESSID=qii31r402t3e8va25krq6kr7l6";
 
 $ssid_dgb = "PHPSESSID=5ki7oimvnfa1ps12ar5fgbgel1";
 

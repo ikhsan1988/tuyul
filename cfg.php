@@ -8,12 +8,12 @@ $useragent = "Mozilla/5.0 (Linux; Android 8.1.0; iris65) AppleWebKit/537.36 (KHT
 
 $ssid_ltc = "PHPSESSID=qii31r402t3e8va25krq6kr7l6";
 
-$ssid_dgb = "PHPSESSID=5ki7oimvnfa1ps12ar5fgbgel1";
+$ssid_dgb = "PHPSESSID=iadb6t570fr17p5vaepbvlgnq0";
 
-$ssid_trx = "PHPSESSID=era1und0ajb9b379ctbi6mi6o7";
+$ssid_trx = "PHPSESSID=h1e257sapm1sdsfeuenu9mvko4";
 
-$ssid_doge = "PHPSESSID=68g78vtq0nmg7a2fd7in2dsti6";
+$ssid_doge = "PHPSESSID=c84uop9bq0lii3sevf3fkk4p05";
 
-$ssid_btc = "PHPSESSID=9hufsbsdeogsphptdv1hm79665";
+$ssid_btc = "PHPSESSID=p4nv7k4tfl51ul4b9aipfmebr2";
 
 $ssid_eth = "PHPSESSID=gs3vbts6oq1vrvbsr976rm7t81";
